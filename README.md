@@ -11,6 +11,10 @@ particular parts used by these designs are CC1110 and CC1111, both of which
 integrate an 8051 microcontroller.  The CC1111 additionally has an integrated
 USB device peripheral.
 
-This repository contains a number of projects which use cc11xx chips (Yard
-Stick One, ToorCon 14 Badge, etc.) plus some useful stuff for working with them
-(KiCad library including schematic symbol and PCB footprints).
+This repository contains a number of projects which use cc11xx chips (ToorCon
+14 Badge, etc.) plus some useful stuff for working with them (KiCad library
+including schematic symbol and PCB footprints).
+
+YARD Stick One was previously in this repository but has moved to:
+https://github.com/greatscottgadgets/yardstick
+http://greatscottgadgets.com/yardstickone/
