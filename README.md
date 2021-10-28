@@ -4,7 +4,7 @@ Michael Ossmann <mike@ossmann.com>
 
 These designs were made with KiCad:
 
-http://www.kicad-pcb.org/
+http://www.kicad.org/
 
 CC11xx is a series of RF transceiver ICs from Texas Instruments.  The
 particular parts used by these designs are CC1110 and CC1111, both of which
